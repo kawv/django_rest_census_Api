@@ -1,0 +1,53 @@
+[
+  {
+    "model": "census_api.Citizen",
+    "pk": 1,
+    "fields": {
+      "first name": "mary",
+      "sur_name": "Jon",
+      "age" : 24,
+      "gender" : "female",
+      "mobile" : 8034895754 ,
+      "email" : "maryj@gmail.com",
+      "address" : "Behind Brewweries",
+      "tribe" : "Tiv",
+      "state" : "Benue"
+      
+    }
+  },
+  
+  {
+    "model": "census_api.Citizen",
+    "pk": 3,
+    "fields": {
+      "first_name": "Amos",
+      "surname": "Dan",
+      "age" : 39,
+      "gender" : "male",
+      "mobile" : 803484344 ,
+      "email" : "daniel33@gmail.com",
+      "address" : "opp apo",
+      "tribe" : "Hausa",
+      "state" : "Abuja"
+      
+    }
+  },
+  
+  {
+    "model": "census_api.Citizen",
+    "pk": 1,
+    "fields": {
+      "first_name": "James",
+      "surname": "Anom",
+      "age" : 33,
+      "gender" : "male",
+      "mobile" : 65677666543 ,
+      "email" : "jamesanom@gmail.com",
+      "address" : "after NNPC",
+      "tribe" : "Igbo",
+      "state" : "Lagos"
+      
+    }
+  },
+  
+]
